@@ -1,7 +1,7 @@
 class task1{
     public static void main (String args[]){
        String name ="abinaya";
-       system.out.println("name::name");
+       System.out.println("name: " + name);
 
     }
 }
