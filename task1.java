@@ -1,8 +1,7 @@
 class task1{
     public static void main (String args[]){
-       String name ="abinaya";
-       System.out.println("name: " + name);
-
+        String name="velmurugan";
+        System.out.println("name : "+name);
     }
 }
 
